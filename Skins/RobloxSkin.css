@@ -414,3 +414,5 @@ body{background-color: #19191b !important;color: #ffffff !important;}
 .messages .messageDivider{border-top: transparent !important;}
 .messages .messageDivider:hover{box-shadow: 4px 0 0 0 #8d2036 inset !important;
 }
+.messages{box-shadow: 0 0 28px -4px black !important;}
+.messages .messageDivider.unread .message-summary-body .subject{color: #ffffff !important;}
