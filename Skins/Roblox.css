@@ -432,6 +432,7 @@ body {
 .rbx-tabs-horizontal .rbx-tab.active .rbx-tab-heading {
     background-color: #19191b !important;
     box-shadow: 0 -4px 0 0 #8d2036 inset !important;
+    color: #ffffff !important;
 }
 
 .rbx-tabs-horizontal .rbx-tab-heading:hover, .rbx-tabs-horizontal .rbx-tab-heading:focus, .rbx-tabs-horizontal .rbx-tab-heading:active {
