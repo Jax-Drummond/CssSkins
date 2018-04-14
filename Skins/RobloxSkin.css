@@ -411,3 +411,4 @@ body{background-color: #19191b !important;color: #ffffff !important;}
     background-color: #19191b !important;
     color: #f2f2f2 !important;
 }
+.messages .messageDivider{border-top: transparent !important;}
