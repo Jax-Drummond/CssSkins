@@ -399,3 +399,5 @@
 .rbx-divider{background-color: #101011;}
 body{background-color: #19191b;color: #ffffff;}
 .scroller.disabled{border: 1px solid #101011;}
+.section-content{padding: 0px;}
+.form-control{background-color: #19191b;}
