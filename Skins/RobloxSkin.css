@@ -401,3 +401,7 @@ body{background-color: #19191b !important;color: #ffffff !important;}
 .scroller.disabled{border: 1px solid #101011 !important;}
 .section-content{padding: 0px !important;}
 .form-control{background-color: #19191b !important;}
+.rbx-tabs-horizontal .rbx-tab.active .rbx-tab-heading{background-color: #19191b !important;box-shadow: 0 -4px 0 0 #8d2036 inset !important;}
+.rbx-tabs-horizontal .rbx-tab-heading:hover, .rbx-tabs-horizontal .rbx-tab-heading:focus, .rbx-tabs-horizontal .rbx-tab-heading:active{    box-shadow: 0 -4px 0 0 #8d2036 inset !important;
+    background-color: #19191b !important;
+    color: white !important;}
