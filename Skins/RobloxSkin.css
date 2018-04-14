@@ -1,403 +1,403 @@
 .avatar, .avatar-card-container {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .avatar-group.card-plain {
-    border: 1px solid #101011;
+    border: 1px solid #101011 !important;
 }
 
 .avatar.card-plain, .avatar-card-container.card-plain {
-    border: 1px solid #101011;
+    border: 1px solid #101011 !important;
 }
 
 .btn-alert-sm:hover, .btn-alert-sm:focus {
-    color: #fff;
+    color: #fff !important;
 }
 
 .btn-control-sm {
-    background-color: #19191b;
-    border-color: #101011;
-    color: #f2f2f2;
+    background-color: #19191b !important;
+    border-color: #101011 !important;
+    color: #f2f2f2 !important;
 }
 
 .btn-control-sm:hover, .btn-control-sm:focus {
-    background-color: #19191b;
-    border-color: #B8B8B8;
-    box-shadow: 0 1px 3px rgba(150,150,150,0.74);
-    color: #ffffff;
-    cursor: pointer;
+    background-color: #19191b !important;
+    border-color: #B8B8B8 !important;
+    box-shadow: 0 1px 3px rgba(150,150,150,0.74) !important;
+    color: #ffffff !important;
+    cursor: pointer !important;
 }
 
 .btn-control-xs, .btn-control-xs {
-    background-color: #8d2036;
-    border-color: transparent;
-    color: #eeeeef;
+    background-color: #8d2036 !important;
+    border-color: transparent !important;
+    color: #eeeeef !important;
 }
 
 .btn-secondary-md, .btn-secondary-md {
-    background-color: #8d2036;
-    border-color: transparent;
-    color: #eeeeef;
+    background-color: #8d2036 !important;
+    border-color: transparent !important;
+    color: #eeeeef !important;
 }
 
 .btn-secondary-sm {
-    border-color: #b8b8b8;
+    border-color: #b8b8b8 !important;
 }
 
 .btn-secondary-sm.disabled, .btn-secondary-sm.disabled:hover, .btn-secondary-sm.disabled:focus, .btn-secondary-sm.disabled:active, .btn-secondary-sm.disabled.active, .btn-secondary-sm[disabled], .btn-secondary-sm[disabled]:hover, .btn-secondary-sm[disabled]:focus, .btn-secondary-sm[disabled]:active, .btn-secondary-sm[disabled].active {
-    border-color: #b8b8b8;
+    border-color: #b8b8b8 !important;
 }
 
 .btn-secondary-sm:hover, .btn-secondary-sm:focus {
-    border-color: #b8b8b8;
-    color: #fff;
+    border-color: #b8b8b8 !important;
+    color: #fff !important;
 }
 
 .btn-secondary-xs {
-    background-color: #8d2036;
-    border-color: #8d2036;
+    background-color: #8d2036 !important;
+    border-color: #8d2036 !important;
 }
 
 .chat-friend-list .chat-friend-container:hover {
-    background-color: #101011;
-    border-left: solid 3px #8d2036;
-    color: #8d2036;
+    background-color: #101011 !important;
+    border-left: solid 3px #8d2036 !important;
+    color: #8d2036 !important;
 }
 
 .chat-friend-list .chat-friend-info {
-    border-color: transparent;
+    border-color: transparent !important;
 }
 
 .chat-main {
-    background-color: #101011;
-    box-shadow: 0 1px 3px rgba(150, 150, 150, 0.45);
+    background-color: #101011 !important;
+    box-shadow: 0 1px 3px rgba(150, 150, 150, 0.45) !important;
 }
 
 .chat-main .chat-body {
-    background-color: #19191b;
-    color: white;
-    height: 328px;
-    position: relative;
+    background-color: #19191b !important;
+    color: white !important;
+    height: 328px !important;
+    position: relative !important;
 }
 
 .chat-main .chat-header {
-    background-color: #19191b;
-    border-bottom: solid 2px  #8d2036;
+    background-color: #19191b !important;
+    border-bottom: solid 2px  #8d2036 !important;
 }
 
 .chat-search {
-    border-bottom: 1px solid #10101e;
+    border-bottom: 1px solid #10101e !important;
 }
 
 .chat-search .chat-search-input {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .chat-windows-header {
-    background-color: #19191b;
-    border-bottom: solid 2px #8d2036;
+    background-color: #19191b !important;
+    border-bottom: solid 2px #8d2036 !important;
 }
 
 .checkbox input[type="checkbox"]:checked+label::before {
-    background-color: #8d2036;
-    border: 1px solid #8d2036;
+    background-color: #8d2036 !important;
+    border: 1px solid #8d2036 !important;
 }
 
 .container-fluid,.container-main,.container-footer {
-    background-color: #19191b;
+    background-color: #19191b !important;
     
 }
 .container-fluid,.container-footer{border-bottom: 2px solid #8d2036;}
 .container-footer {
-    background-color: #19191b;
-    box-shadow: 0px -4px 18px -7px black;
+    background-color: #19191b !important;
+    box-shadow: 0px -4px 18px -7px black !important;
 }
 
 .content {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .conversation-title-container .conversation-title-input {
-    background-color: #19191b;
-    border-bottom: transparent;
-    color: white;
+    background-color: #19191b !important;
+    border-bottom: transparent !important;
+    color: white !important;
 }
 
 .conversation-title-editor-container .conversation-title-editor-body {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .conversation-title-editor-container .conversation-title-editor-content .conversation-title-editor-textarea {
-    background-color: #19191b;
-    border: 1px solid #101011;
-    color: #fafafa;
+    background-color: #19191b !important;
+    border: 1px solid #101011 !important;
+    color: #fafafa !important;
 }
 
 .details-btns button, .details-btns-fixed button {
-    background-color: #19191b;
-    color: silver;
+    background-color: #19191b !important;
+    color: silver !important;
 }
 
 .details-btns-fixed {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .details-general-label {
-    border-bottom: 1px solid #101011;
+    border-bottom: 1px solid #101011 !important;
 }
 
 .details-header-container {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .details-members-container .add-friends-option {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .details-members-container .add-friends-option .add-friends-label {
-    border-bottom: transparent;
-    color: #e7e7e7;
+    border-bottom: transparent !important;
+    color: #e7e7e7 !important;
 }
 
 .details-members-label {
-    border-bottom: 1px solid #101011;
-    border-top: transparent;
+    border-bottom: 1px solid #101011 !important;
+    border-top: transparent !important;
 }
 
 .dialog-container {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .dialog-container .dialog-banner {
-    background-color: #101011;
+    background-color: #101011 !important;
 }
 
 .dialog-container .dialog-banner .group-member {
-    border: 1px solid #101011;
+    border: 1px solid #101011 !important;
 }
 
 .dialog-container .dialog-body {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .dialog-container .dialog-header {
-    background-color: #19191b;
-    border-bottom: solid 2px  #8d2036;
+    background-color: #19191b !important;
+    border-bottom: solid 2px  #8d2036 !important;
 }
 
 .dialog-container .dialog-input-container {
-    border-top: 1px solid #10101E;
+    border-top: 1px solid #10101E !important;
 }
 
 .dialog-container .dialog-input-container,.dialog-container .dialog-input-container .dialog-input {
-    background-color: #1e1e21;
-    color: #f9fdfb;
+    background-color: #1e1e21 !important;
+    color: #f9fdfb !important;
 }
 
 .dialog-container .dialog-message-container .dialog-message {
-    background-color: #19191b;
-    border-color: transparent;
+    background-color: #19191b !important;
+    border-color: transparent !important;
 }
 
 .dialog-container .dialog-message-container .indicated-message-bubble,.dialog-container .dialog-message-container.message-inbound .dialog-message {
-    background-color: #19191b;
-    border: transparent;
-    color: #f9fdfb;
+    background-color: #19191b !important;
+    border: transparent !important;
+    color: #f9fdfb !important;
 }
 
 .dialog-container .dialog-message-container.message-cluster-master .dialog-triangle:before, .dialog-container .dialog-message-container.message-cluster-master .dialog-triangle:after {
-    border-color: transparent;
+    border-color: transparent !important;
 }
 
 .dialog-container .dialog-message-container.message-inbound .dialog-message-avatar-link {
-    border: 1px solid #101011;
+    border: 1px solid #101011 !important;
 }
 
 .dropdown-menu {
-    background-color: #19191b;
-    border: transparent;
-    border-radius: 1px;
-    box-shadow: 0px -1px 17px -1px black;
-    color: #eeeeef;
+    background-color: #19191b !important;
+    border: transparent !important;
+    border-radius: 1px !important;
+    box-shadow: 0px -1px 17px -1px black !important;
+    color: #eeeeef !important;
 }
 
 .dropdown-menu li:hover {
-    background-color: #19191b;
-    box-shadow: 4px 0 0 0 #8d2036 inset;
+    background-color: #19191b !important;
+    box-shadow: 4px 0 0 0 #8d2036 inset !important;
 }
 
 .friend-list .friend:hover {
-    background-color: #101011;
+    background-color: #101011 !important;
 }
 
 .friends-list-container {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .friends-list-container .friend-container .friend-info .friend-name {
-    color: white;
+    color: white !important;
 }
 
 .friends-list-container .friend-container .friend-info-action {
-    border-bottom: transparent;
+    border-bottom: transparent !important;
 }
 
 .friends-list-container .friend-container:hover {
-    background-color: #101011;
-    border-left: solid 3px #8d2036;
+    background-color: #101011 !important;
+    border-left: solid 3px #8d2036 !important;
 }
 
 .game-card-container {
-    background-color: #101011;
+    background-color: #101011 !important;
 }
 
 .game-cards-sm .game-card {
-    color: #e1e1e1;
+    color: #e1e1e1 !important;
 }
 
 .game-main-content,.section-content {
-    background-color: #19191b;
-    color: #eeeeef;
+    background-color: #19191b !important;
+    color: #eeeeef !important;
 }
 
 .games-list-container {
-    background-color: #19191b;
-    color: #eeeeef;
+    background-color: #19191b !important;
+    color: #eeeeef !important;
 }
 
 .input-field {
-    border: 1px solid #101011;
-    color: #fff;
+    border: 1px solid #101011 !important;
+    color: #fff !important;
 }
 
 .input-group-btn .dropdown-menu li a:hover, .input-group-btn .dropdown-menu li a:focus {
-    background-color: #19191b;
-    color: #eeeeef;
+    background-color: #19191b !important;
+    color: #eeeeef !important;
 }
 
 .input-group-btn .dropdown-menu li a:hover, .input-group-btn .dropdown-menu li a:focus, .input-group-btn .dropdown-menu li a.active {
-    box-shadow: 3px 0 0 0 #8d2036 inset;
+    box-shadow: 3px 0 0 0 #8d2036 inset !important;
 }
 
 .input-group-btn .input-addon-btn {
-    border-bottom: 1px solid #101011;
-    border-left: 0px solid #101011;
-    border-right: 1px solid #101011;
-    border-top: 1px solid #101011;
+    border-bottom: 1px solid #101011 !important;
+    border-left: 0px solid #101011 !important;
+    border-right: 1px solid #101011 !important;
+    border-top: 1px solid #101011 !important;
 }
 
 .input-group-btn .input-dropdown-btn {
-    background-color: #19191b;
-    border-color: #101011;
-    color: #eeeeef;
+    background-color: #19191b !important;
+    border-color: #101011 !important;
+    color: #eeeeef !important;
 }
 
 .input-group-btn .input-dropdown-btn:hover, .input-group-btn .input-dropdown-btn:focus {
-    border-color: #2d2828;
+    border-color: #2d2828 !important;
 }
 
 .mCustomScrollBox {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .menu-vertical {
-    background: #19191b;
-    box-shadow: 0 1px 3px rgb(16, 16, 17);
-    color: white;
+    background: #19191b !important;
+    box-shadow: 0 1px 3px rgb(16, 16, 17) !important;
+    color: white !important;
 }
 
 .menu-vertical .menu-option:hover {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .menu-vertical .menu-option:hover, .menu-vertical .menu-option:focus, .menu-vertical .menu-option.active {
-    box-shadow: 4px 0 0 0 #8d2036 inset;
+    box-shadow: 4px 0 0 0 #8d2036 inset !important;
 }
 
 .notification-stream-body .container-empty {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .notification-stream-header {
-    background-color: #101011;
-    border-bottom: 2px solid #8d2036;
+    background-color: #101011 !important;
+    border-bottom: 2px solid #8d2036 !important;
 }
 
 .notification-stream-wrap.open .notification-stream-container {
-    box-shadow: 0 0 18px -1px black;
+    box-shadow: 0 0 18px -1px black !important;
 }
 
 .popover.bottom>.arrow {
-    border-bottom-color: #19191b;
+    border-bottom-color: #19191b !important;
 }
 
 .popover.bottom>.arrow:after {
-    border-bottom-color: #19191b;
+    border-bottom-color: #19191b !important;
 }
 
 .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:link, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:active, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:hover, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:visited, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:focus {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .rbx-header .rbx-navbar-search .input-field, .rbx-header .rbx-navbar-search .input-addon-btn {
-    background-color: #19191b;
+    background-color: #19191b !important;
 }
 
 .rbx-header .rbx-navbar-search .rbx-navbar-search-option a {
-    color: #fff;
+    color: #fff !important;
 }
 
 .rbx-header .rbx-navbar-search .rbx-navbar-search-option.selected {
-    background-color: #19191b;
-    box-shadow: 4px 0 0 0 #8d2036 inset;
-    color: #fff;
+    background-color: #19191b !important;
+    box-shadow: 4px 0 0 0 #8d2036 inset !important;
+    color: #fff !important;
 }
 
 .roblox-popover-content.bottom .arrow:after {
-    border-bottom-color: #101011;
+    border-bottom-color: #101011 !important;
 }
 
 .scroller {
-    background-color: #101011;
-    border: 1px solid #101011;
+    background-color: #101011 !important;
+    border: 1px solid #101011 !important;
 }
 
 .scroller:hover {
-    border: 1px solid #2b2b2f;
+    border: 1px solid #2b2b2f !important;
 }
 
 .select-friends-header {
-    border-bottom: 1px solid #101011;
+    border-bottom: 1px solid #101011 !important;
 }
 
 .select-friends-header .select-friends-search .select-friends-input {
-    background-color: #19191b;
-    color: white;
+    background-color: #19191b !important;
+    color: white !important;
 }
 
 .small, .small-oneline {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .sponsored-game .game-card-native-ad {
-    background-color: #000000;
+    background-color: #000000 !important;
 }
 
 .stack .stack-list .stack-row {
-    background-color: #19191b;
+    background-color: #19191b !important;
     box-shadow: 0px 0px 15px 0px black
-;
-    color: #eeeeef;
+ !important;
+    color: #eeeeef !important;
 }
 
 .text-footer-nav:hover, .text-footer-nav:focus {
-    color: #B8B8B8;
+    color: #B8B8B8 !important;
 }
-.rbx-left-col{background-color: #19191b;}
-.rbx-left-col li a{color: #ffffff;}
-.notification-blue{background-color: #8d2036;}
-.rbx-divider{background-color: #101011;}
-body{background-color: #19191b;color: #ffffff;}
-.scroller.disabled{border: 1px solid #101011;}
-.section-content{padding: 0px;}
-.form-control{background-color: #19191b;}
+.rbx-left-col{background-color: #19191b !important;}
+.rbx-left-col li a{color: #ffffff !important;}
+.notification-blue{background-color: #8d2036 !important;}
+.rbx-divider{background-color: #101011 !important;}
+body{background-color: #19191b !important;color: #ffffff !important;}
+.scroller.disabled{border: 1px solid #101011 !important;}
+.section-content{padding: 0px !important;}
+.form-control{background-color: #19191b !important;}
