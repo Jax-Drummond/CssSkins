@@ -1,0 +1,605 @@
+.avatar, .avatar-card-container {
+    background-color: #19191b ;
+}
+
+.avatar-group.card-plain {
+    border: 1px solid #101011 ;
+}
+
+.avatar.card-plain, .avatar-card-container.card-plain {
+    border: 1px solid #101011 ;
+}
+
+.btn-alert-sm:hover, .btn-alert-sm:focus {
+    color: #fff ;
+}
+
+.btn-control-sm {
+    background-color: #19191b ;
+    border-color: #101011 ;
+    color: #f2f2f2 ;
+}
+
+.btn-control-sm:hover, .btn-control-sm:focus {
+    background-color: #19191b ;
+    border-color: #B8B8B8 ;
+    box-shadow: 0 1px 3px rgba(150,150,150,0.74) ;
+    color: #ffffff ;
+    cursor: pointer ;
+}
+
+.btn-control-xs, .btn-control-xs {
+    background-color: #8d2036 ;
+    border-color: transparent ;
+    color: #eeeeef ;
+}
+
+.btn-secondary-md, .btn-secondary-md {
+    background-color: #8d2036 ;
+    border-color: transparent ;
+    color: #eeeeef ;
+}
+
+.btn-secondary-sm {
+    border-color: #b8b8b8 ;
+}
+
+.btn-secondary-sm.disabled, .btn-secondary-sm.disabled:hover, .btn-secondary-sm.disabled:focus, .btn-secondary-sm.disabled:active, .btn-secondary-sm.disabled.active, .btn-secondary-sm[disabled], .btn-secondary-sm[disabled]:hover, .btn-secondary-sm[disabled]:focus, .btn-secondary-sm[disabled]:active, .btn-secondary-sm[disabled].active {
+    border-color: #b8b8b8 ;
+}
+
+.btn-secondary-sm:hover, .btn-secondary-sm:focus {
+    border-color: #b8b8b8 ;
+    color: #fff ;
+}
+
+.btn-secondary-xs {
+    background-color: #8d2036 ;
+    border-color: #8d2036 ;
+}
+
+.chat-friend-list .chat-friend-container:hover {
+    background-color: #101011 ;
+    border-left: solid 3px #8d2036 ;
+    color: #8d2036 ;
+}
+
+.chat-friend-list .chat-friend-info {
+    border-color: transparent ;
+}
+
+.chat-main {
+    background-color: #101011 ;
+    box-shadow: 0 1px 3px rgba(150, 150, 150, 0.45) ;
+}
+
+.chat-main .chat-body {
+    background-color: #19191b ;
+    color: white ;
+    height: 328px ;
+    position: relative ;
+}
+
+.chat-main .chat-header {
+    background-color: #19191b ;
+    border-bottom: solid 2px  #8d2036 ;
+}
+
+.chat-search {
+    border-bottom: 1px solid #10101e ;
+}
+
+.chat-search .chat-search-input {
+    background-color: #19191b ;
+}
+
+.chat-windows-header {
+    background-color: #19191b ;
+    border-bottom: solid 2px #8d2036 ;
+}
+
+.checkbox input[type="checkbox"]:checked+label::before {
+    background-color: #8d2036 ;
+    border: 1px solid #8d2036 ;
+}
+
+.container-fluid,.container-main,.container-footer {
+    background-color: #19191b ;
+}
+
+.container-fluid,.container-footer {
+    border-bottom: 2px solid #8d2036;
+}
+
+.container-footer {
+    background-color: #19191b ;
+    box-shadow: 0px -4px 18px -7px black ;
+}
+
+.content {
+    background-color: #19191b ;
+}
+
+.conversation-title-container .conversation-title-input {
+    background-color: #19191b ;
+    border-bottom: transparent ;
+    color: white ;
+}
+
+.conversation-title-editor-container .conversation-title-editor-body {
+    background-color: #19191b ;
+}
+
+.conversation-title-editor-container .conversation-title-editor-content .conversation-title-editor-textarea {
+    background-color: #19191b ;
+    border: 1px solid #101011 ;
+    color: #fafafa ;
+}
+
+.details-btns button, .details-btns-fixed button {
+    background-color: #19191b ;
+    color: silver ;
+}
+
+.details-btns-fixed {
+    background-color: #19191b ;
+}
+
+.details-general-label {
+    border-bottom: 1px solid #101011 ;
+}
+
+.details-header-container {
+    background-color: #19191b ;
+}
+
+.details-members-container .add-friends-option {
+    background-color: #19191b ;
+}
+
+.details-members-container .add-friends-option .add-friends-label {
+    border-bottom: transparent ;
+    color: #e7e7e7 ;
+}
+
+.details-members-label {
+    border-bottom: 1px solid #101011 ;
+    border-top: transparent ;
+}
+
+.dialog-container {
+    background-color: #19191b ;
+}
+
+.dialog-container .dialog-banner {
+    background-color: #101011 ;
+}
+
+.dialog-container .dialog-banner .group-member {
+    border: 1px solid #101011 ;
+}
+
+.dialog-container .dialog-body {
+    background-color: #19191b ;
+}
+
+.dialog-container .dialog-header {
+    background-color: #19191b ;
+    border-bottom: solid 2px  #8d2036 ;
+}
+
+.dialog-container .dialog-input-container {
+    border-top: 1px solid #10101E ;
+}
+
+.dialog-container .dialog-input-container,.dialog-container .dialog-input-container .dialog-input {
+    background-color: #1e1e21 ;
+    color: #f9fdfb ;
+}
+
+.dialog-container .dialog-message-container .dialog-message {
+    background-color: #19191b ;
+    border-color: transparent ;
+}
+
+.dialog-container .dialog-message-container .indicated-message-bubble,.dialog-container .dialog-message-container.message-inbound .dialog-message {
+    background-color: #19191b ;
+    border: transparent ;
+    color: #f9fdfb ;
+}
+
+.dialog-container .dialog-message-container.message-cluster-master .dialog-triangle:before, .dialog-container .dialog-message-container.message-cluster-master .dialog-triangle:after {
+    border-color: transparent ;
+}
+
+.dialog-container .dialog-message-container.message-inbound .dialog-message-avatar-link {
+    border: 1px solid #101011 ;
+}
+
+.dropdown-menu {
+    background-color: #19191b ;
+    border: transparent ;
+    border-radius: 1px ;
+    box-shadow: 0px -1px 17px -1px black ;
+    color: #eeeeef ;
+}
+
+.dropdown-menu li:hover {
+    background-color: #19191b ;
+    box-shadow: 4px 0 0 0 #8d2036 inset ;
+}
+
+.friend-list .friend:hover {
+    background-color: #101011 ;
+}
+
+.friends-list-container {
+    background-color: #19191b ;
+}
+
+.friends-list-container .friend-container .friend-info .friend-name {
+    color: white ;
+}
+
+.friends-list-container .friend-container .friend-info-action {
+    border-bottom: transparent ;
+}
+
+.friends-list-container .friend-container:hover {
+    background-color: #101011 ;
+    border-left: solid 3px #8d2036 ;
+}
+
+.game-card-container {
+    background-color: #101011 ;
+}
+
+.game-cards-sm .game-card {
+    color: #e1e1e1 ;
+}
+
+.game-main-content,.section-content {
+    background-color: #19191b ;
+    color: #eeeeef ;
+}
+
+.games-list-container {
+    background-color: #19191b ;
+    color: #eeeeef ;
+}
+
+.input-field {
+    border: 1px solid #101011 ;
+    color: #fff ;
+}
+
+.input-group-btn .dropdown-menu li a:hover, .input-group-btn .dropdown-menu li a:focus {
+    background-color: #19191b ;
+    color: #eeeeef ;
+}
+
+.input-group-btn .dropdown-menu li a:hover, .input-group-btn .dropdown-menu li a:focus, .input-group-btn .dropdown-menu li a.active {
+    box-shadow: 3px 0 0 0 #8d2036 inset ;
+}
+
+.input-group-btn .input-addon-btn {
+    border-bottom: 1px solid #101011 ;
+    border-left: 0px solid #101011 ;
+    border-right: 1px solid #101011 ;
+    border-top: 1px solid #101011 ;
+}
+
+.input-group-btn .input-dropdown-btn {
+    background-color: #19191b ;
+    border-color: #101011 ;
+    color: #eeeeef ;
+}
+
+.input-group-btn .input-dropdown-btn:hover, .input-group-btn .input-dropdown-btn:focus {
+    border-color: #2d2828 ;
+}
+
+.mCustomScrollBox {
+    background-color: #19191b ;
+}
+
+.menu-vertical {
+    background: #19191b ;
+    box-shadow: 0 1px 3px rgb(16, 16, 17) ;
+    color: white ;
+}
+
+.menu-vertical .menu-option:hover {
+    background-color: #19191b ;
+}
+
+.menu-vertical .menu-option:hover, .menu-vertical .menu-option:focus, .menu-vertical .menu-option.active {
+    box-shadow: 4px 0 0 0 #8d2036 inset ;
+}
+
+.notification-stream-body .container-empty {
+    background-color: #19191b ;
+}
+
+.notification-stream-header {
+    background-color: #101011 ;
+    border-bottom: 2px solid #8d2036 ;
+}
+
+.notification-stream-wrap.open .notification-stream-container {
+    box-shadow: 0 0 18px -1px black ;
+}
+
+.popover.bottom>.arrow {
+    border-bottom-color: #19191b ;
+}
+
+.popover.bottom>.arrow:after {
+    border-bottom-color: #19191b ;
+}
+
+.rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:link, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:active, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:hover, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:visited, .rbx-header .rbx-navbar-icon-group li .popover-content .rbx-menu-item:focus {
+    color: #ffffff ;
+}
+
+.rbx-header .rbx-navbar-search .input-field, .rbx-header .rbx-navbar-search .input-addon-btn {
+    background-color: #19191b ;
+}
+
+.rbx-header .rbx-navbar-search .rbx-navbar-search-option a {
+    color: #fff ;
+}
+
+.rbx-header .rbx-navbar-search .rbx-navbar-search-option.selected {
+    background-color: #19191b ;
+    box-shadow: 4px 0 0 0 #8d2036 inset ;
+    color: #fff ;
+}
+
+.roblox-popover-content.bottom .arrow:after {
+    border-bottom-color: #101011 ;
+}
+
+.scroller {
+    background-color: #101011 ;
+    border: 1px solid #101011 ;
+}
+
+.scroller:hover {
+    border: 1px solid #2b2b2f ;
+}
+
+.select-friends-header {
+    border-bottom: 1px solid #101011 ;
+}
+
+.select-friends-header .select-friends-search .select-friends-input {
+    background-color: #19191b ;
+    color: white ;
+}
+
+.small, .small-oneline {
+    color: #ffffff ;
+}
+
+.sponsored-game .game-card-native-ad {
+    background-color: #000000 ;
+}
+
+.stack .stack-list .stack-row {
+    background-color: #19191b ;
+    box-shadow: 0px 0px 15px 0px black
+ ;
+    color: #eeeeef ;
+}
+
+.text-footer-nav:hover, .text-footer-nav:focus {
+    color: #B8B8B8 ;
+}
+
+.rbx-left-col {
+    background-color: #19191b ;
+}
+
+.rbx-left-col li a {
+    color: #ffffff ;
+}
+
+.notification-blue {
+    background-color: #8d2036 ;
+}
+
+.rbx-divider {
+    background-color: #101011 ;
+}
+
+body {
+    background-color: #19191b ;
+    color: #ffffff ;
+}
+
+.scroller.disabled {
+    border: 1px solid #101011 ;
+}
+
+.section-content {
+    padding: 0px ;
+}
+
+.form-control {
+    background-color: #19191b ;
+}
+
+.rbx-tabs-horizontal .rbx-tab.active .rbx-tab-heading {
+    background-color: #19191b ;
+    box-shadow: 0 -4px 0 0 #8d2036 inset ;
+}
+
+.rbx-tabs-horizontal .rbx-tab-heading:hover, .rbx-tabs-horizontal .rbx-tab-heading:focus, .rbx-tabs-horizontal .rbx-tab-heading:active {
+    box-shadow: 0 -4px 0 0 #8d2036 inset ;
+    background-color: #19191b ;
+    color: white ;
+}
+
+.rbx-tabs-horizontal .rbx-tab-heading {
+    background-color: #19191b ;
+    color: #ffffff ;
+}
+
+.rbx-tabs-horizontal .nav-tabs {
+    box-shadow: 0 1px 20px 3px rgb(16, 16, 17) ;
+}
+
+.messages .messageDivider.unread {
+    background-color: #19191b ;
+    color: #f2f2f2 ;
+}
+
+.messages .messageDivider {
+    border-top: transparent ;
+    background: #19191b;
+}
+
+.messages .messageDivider:hover {
+    box-shadow: 4px 0 0 0 #8d2036 inset ;
+}
+
+.messages {
+    box-shadow: 0 0 28px -4px black ;
+}
+
+.messages .messageDivider.unread .message-summary-body .subject {
+    color: #ffffff ;
+}
+
+.message-summary-content .subject {
+    color: #ffffff ;
+}
+
+.messages-container {
+    color: white ;
+}
+
+.vlist .list-item {
+    border-top: transparent;
+}
+
+.section-content-off {
+    background-color: #19191b;
+    color: #b2b2b2;
+}
+
+.profile-avatar-right .profile-avatar-mask {
+    background-color: rgb(25, 25, 27);
+    box-shadow: 0 0 40px -6px black;
+}
+
+.profile-accoutrements-container .profile-accoutrements-slider .accoutrement-item .accoutrement-image {
+    background-color: #565151;
+}
+
+.profile-accoutrements-container .profile-accoutrements-slider .accoutrement-item a {
+    background-color: transparent;
+}
+
+.profile-accoutrements-container .profile-accoutrements-page-container .profile-accoutrements-page:hover {
+    background-color: #8d2036;
+}
+
+.profile-accoutrements-container .profile-accoutrements-page-container .profile-accoutrements-page {
+    border: 1px solid #8d2036;
+}
+
+.profile-accoutrements-container .profile-accoutrements-page-container .page-active {
+    background-color: #8d2036;
+}
+
+.profile-about-footer {
+    border-top: transparent;
+}
+
+.profile-container .asset-item img {
+    border: 1px solid #101011;
+}
+
+.slide-switcher .slide-item-container .slide-item-container-right {
+    background-color: #19191b;
+}
+
+.switcher .switcher-items {
+    box-shadow: 0 0 22px -3px black;
+}
+
+.slide-switcher .slide-item-container .slide-item-container-left {
+    background-color: #101011;
+}
+
+.profile-container .asset-item span[title] {
+    border: 1px solid #101011;
+}
+
+.slide-switcher .slide-item-container .slide-item-container-right h2 {
+    border-bottom: 1px solid #101011;
+}
+
+.slide-switcher .slide-item-container .slide-item-container-right .slide-item-description {
+    border-top: 1px solid #101011;
+}
+
+.avatar-card-container .avatar-card-fullbody {
+    border: 1px solid #101011;
+}
+
+.item-card-container {
+    background-color: #565151;
+}
+
+.item-card-thumb-container {
+    border-bottom: 1px solid #5d5d58;
+}
+
+.rbx-tab-horizontal-submenu li {
+    background-color: #8d2036;
+    color: #f9f9f9;
+}
+
+.pager .disabled>a, .pager .disabled>a, .pager .disabled>a {
+    background-color: #8d2036;
+    border: 1px solid #8d2036;
+}
+
+.pager .disabled>a span, .pager .disabled>a span, .pager .disabled>a span {
+    background-color: #8d2036;
+}
+
+.pager .first a, .pager .last a, .pager .pager-prev a, .pager .pager-next a {
+    background-color: #8d2036;
+    border: 1px solid #8d2036;
+}
+
+.pager .first a span, .pager .last a span, .pager .pager-prev a span, .pager .pager-next a span {
+    background-color: #8d2036;
+}
+
+.pager .first a:hover, .pager .last a:hover, .pager .pager-prev a:hover, .pager .pager-next a:hover {
+    background-color: rgb(144, 37, 58);
+}
+
+.pager .first a:hover span, .pager .last a:hover span, .pager .pager-prev a:hover span, .pager .pager-next a:hover span {
+    background-color: rgb(144, 37, 58);
+}
+
+.menu-vertical .menu-option .menu-secondary {
+    background-color: #19191b;
+    box-shadow: 0 0 10px black;
+}
+
+.menu-vertical .menu-option .menu-secondary-option:focus, .menu-vertical .menu-option .menu-secondary-option.active {
+    box-shadow: 4px 0 0 0 #8d2036 inset;
+}
+
+.menu-vertical .menu-option .menu-secondary-option:hover {
+    background-color: #19191b;
+    box-shadow: 4px 0 0 0 #8d2036 inset;
+}
+
