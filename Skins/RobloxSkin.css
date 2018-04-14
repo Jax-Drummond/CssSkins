@@ -398,3 +398,4 @@
 .notification-blue{background-color: #8d2036;}
 .rbx-divider{background-color: #101011;}
 body{background-color: #19191b;}
+.scroller.disabled{border: 1px solid #101011;}
