@@ -416,3 +416,4 @@ body{background-color: #19191b !important;color: #ffffff !important;}
 }
 .messages{box-shadow: 0 0 28px -4px black !important;}
 .messages .messageDivider.unread .message-summary-body .subject{color: #ffffff !important;}
+.message-summary-content .subject{color: #ffffff !important;}
