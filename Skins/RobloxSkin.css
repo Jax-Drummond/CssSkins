@@ -406,3 +406,4 @@ body{background-color: #19191b !important;color: #ffffff !important;}
     background-color: #19191b !important;
     color: white !important;}
 .rbx-tabs-horizontal .rbx-tab-heading{background-color: #19191b !important;color: #ffffff !important;}
+.rbx-tabs-horizontal .nav-tabs{box-shadow: 0 1px 20px 3px rgb(16, 16, 17) !important;}
