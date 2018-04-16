@@ -1,6 +1,6 @@
 # cssShit
 
-So it is basically my css for websites that I reskin.It is first starting out with a RobloxSkin.
+So it is basically my css for websites that I reskin. It is first starting out with a RobloxSkin.
 
 # How To Use
 
