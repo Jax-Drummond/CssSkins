@@ -1,0 +1,15 @@
+.gb_be {
+    background-color: #19191b;
+    -webkit-transition: background-color .4s;
+    transition: background-color .4s;
+    color: #ece6e6;
+}
+
+.gb_Xa svg, .gb_oc svg {
+    color: #ece6e6;
+}
+
+.gb_7e {
+    border: solid 2px #151414;
+}
+
