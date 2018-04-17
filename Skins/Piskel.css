@@ -1,0 +1,90 @@
+body {
+    background: #19191b;
+}
+
+.piskel-name {
+    background-color: #19191b;
+    border-bottom: solid 2px #8d2036 ;
+}
+
+.preview-tile.selected {
+    border-color: #8d2036;
+}
+
+.preview-tile.selected:after {
+    border-left-color: #8d2036;
+}
+
+.tool-icon.selected:before {
+    border-color: #8d2036;
+}
+
+.size-picker-option.selected {
+    border-color: #8d2036;
+}
+
+.size-picker-option.selected:before {
+    background-color: #8d2036;
+}
+
+.add-frame-action:hover {
+    border-color: #8d2036;
+}
+
+.sp-palette .sp-thumb-el.sp-thumb-active {
+    border-color: #8d2036;
+    box-shadow: 0 0 0px 1px #8d2036;
+}
+
+.cheatsheet-link {
+    color: #8d2036;
+}
+
+#dialog-container {
+    border: 3px solid #8d2036;
+    background: #19191b;
+}
+
+.dialog-head {
+    background: #8d2036;
+    color: white;
+}
+
+.cheatsheet-actions {
+    background-color: #8d2036;
+}
+
+.cheatsheet-helptext {
+    color: white;
+}
+
+.cheatsheet-shortcut-editable .cheatsheet-key {
+    border-color: #8d2036;
+    color: #8d2036;
+}
+
+.cursor-coordinates {
+    color: #a0a0a0;
+}
+
+.editor-header-wrap .piskel-button {
+    background-color: #8d2036;
+    color: white;
+}
+
+.piskel-button:hover {
+    background-color: #792d3d ;
+}
+
+.layers-toggle-preview-enabled, .layers-toggle-preview-enabled {
+    color: #8d2036;
+}
+
+.current-layer-item, .current-layer-item {
+    color: #a0a0a0;
+}
+
+.show-more .transformations-show-more-link {
+    color: #8d2036;
+}
+
