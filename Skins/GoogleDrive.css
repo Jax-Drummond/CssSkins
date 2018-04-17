@@ -10,6 +10,27 @@
 }
 
 .gb_7e {
-    border: solid 2px #151414;
+    background-color: #383838;
+    color: #ece6e6;
+}
+
+.gb_Pe.gb_6e .gb_7e {
+    color: white;
+}
+
+.gb_Pe button {
+    background-color: #383838;
+}
+
+.gb_lf .gb_kf {
+    background-color: #383838;
+}
+
+.gb_Td.gb_4d .gb_Qd .gb_Pe {
+    background-color: #383838;
+}
+
+.gb_Pe.gb_6e {
+    background: #383838;
 }
 
