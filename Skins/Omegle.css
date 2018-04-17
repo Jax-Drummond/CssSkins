@@ -1,0 +1,111 @@
+body {
+    background-color: #19191b;
+    color: #afaeae;
+}
+
+#header {
+    background: #19191b;
+    box-shadow: none;
+    border-bottom: solid 2px #8d2036;
+}
+
+#tagline img {
+    display: none;
+}
+
+#feedback {
+    color: #afaeae;
+}
+
+#intro {
+    background: #19191b;
+    box-shadow: 0 1px 54px -6px black;
+    border: none;
+}
+
+#startachat, #intoheader {
+    color: #afaeae;
+}
+
+#monitoringnotice .content {
+    color: #d62727;
+}
+
+#monitoringnotice,#monitoringnotice h2 {
+    background: #8c2036;
+}
+
+#monitoringnotice {
+    -webkit-box-shadow: 0 0 0.75em #8c2036;
+    border: 2px solid #8c2036;
+}
+
+.topictageditor {
+    background: #19191b;
+    border: solid 2px #101010;
+    color: white;
+}
+
+.newtopicinput {
+    color: #afaeae;
+}
+
+.logwrapper {
+    border: 2px solid #101010;
+    background: #19191b;
+    box-shadow: 0 0 24px 0px black;
+}
+
+.youmsg .msgsource {
+    color: #18bd80;
+}
+
+.strangermsg .msgsource {
+    color: #8c2036;
+}
+
+a {
+    color: #c1c1c1;
+}
+
+a:hover {
+    color: #afaeae;
+}
+
+.topictag {
+    background: #8c2036;
+}
+
+.newbtn .disconnectbtn {
+    color: #afaeae;
+}
+
+.disconnectbtnwrapper.newbtn {
+    background-image: -webkit-linear-gradient(top,#8b2035 0,#bf2d4a 100%);
+    background: #8c2036;
+    border: solid 2px #8b2035;
+}
+
+.disconnectbtnwrapper {
+    background: #8c2036;
+    color: #afaeae ;
+    border: solid 2px #8b2035;
+}
+
+.chatmsg {
+}
+
+.disconnectbtn {
+    color: #afaeae;
+}
+
+.sendbtn {
+    color: #afaeae;
+}
+
+.sendbtnwrapper {
+    background: #8c2036;
+    color: #afaeae ;
+    border: solid 2px #8b2035;
+}
+
