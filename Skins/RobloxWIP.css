@@ -610,3 +610,15 @@ body {
 .dialog-container .dialog-message-container .link-card-details .link-card-description{color: #ffffff !important;}
 
 .dialog-container .dialog-message-container .link-card-container{border:none !important;}
+
+#Body{background-color: #19191b !important; color: #efefef !important;}
+
+#left-column .StandardBox{background-color: #19191b !important;    border: 1px solid #101011 !important;}
+
+#SearchControls{background: none !important; border: none !important;}
+
+.StatusView .bottom{background: none !important;}
+
+.StatusView .top{background: none !important;}
+
+.GroupListItemContainer:hover, .GroupListItemContainer.selected:hover{border-left: solid 2px #8d2036 !important;background-color: #101011 !important;}
