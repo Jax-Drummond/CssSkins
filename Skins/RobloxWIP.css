@@ -604,3 +604,9 @@ body {
     box-shadow: 4px 0 0 0 #8d2036 inset !important;
 }
 .dialog-container .dialog-main {box-shadow: 0 0 30px -3px black !important;}
+
+.dialog-container .dialog-message-container.message-inbound.message-cluster-master .link-card-container{background-color: #19191b !important;}
+
+.dialog-container .dialog-message-container .link-card-details .link-card-description{color: #ffffff !important;}
+
+.dialog-container .dialog-message-container .link-card-container{border:none !important;}
